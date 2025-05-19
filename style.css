@@ -1,4 +1,4 @@
-.heading{
+/* .heading{
     color: blue;
     background-color: red;
 }
@@ -27,4 +27,11 @@ button{
 
 .newclass{
     background-color: green;
+} */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: royalblue;
+    margin: 10px;
 }
